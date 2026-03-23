@@ -4,8 +4,6 @@
   
 - 🌱 I’m currently learning HTML, CSS and JavaScript.
 - 💻 Currently working on my portfolio, and a idea for a website for my work.
-- 📫 How to reach me ...
-- ⚡ Fun fact: ...
 
 <!---
 DutchSapper/DutchSapper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
