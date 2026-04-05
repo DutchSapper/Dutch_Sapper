@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @DutchSapper, or Kaj Heskes.
 - 👀 I’m doing a higher professional education in computer science.
 - 🌱 I’m currently learning PHP, MySQL, JavaScript.
-- 💻 Currently working on my portfolio, and a idea for a website for my jOB.
+- 💻 Currently working on my portfolio.
 - 💻 I have finnised HTML and CSS and now trying to get better at it.
 
 <!---
